@@ -8,7 +8,7 @@ const client = new Discord.Client();
 
 // Settings
 
-const TOKEN = "NDczNjgzMjU2OTI4MjM5NjE3.DkHxIA.ONvkhl5J2ydBnjhdD9vU8wKwhKo"
+const TOKEN = "NDE3NzU5NzEzNTU2NTYxOTUx.DkJZOw.lLeBPUhVY2g3X1fkbYSlq27rCtI"
 const PREFIX = "!"
 
 // Audio
